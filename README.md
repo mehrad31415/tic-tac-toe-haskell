@@ -2,4 +2,4 @@
 
 ## Haskell
 
-### this is a tic-tac-toe game written in haskell with the minimax algorithm.
+This is an interactive tic-tac-toe game written in haskell with the minimax algorithm.
